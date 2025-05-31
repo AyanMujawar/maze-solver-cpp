@@ -98,5 +98,10 @@ You can add an appropriate license file as per your preference (e.g., MIT, Apach
 
 ## 👨‍💻 Author
 Ayan Mujawar
-[GitHub Profile](https://github.com/AyanMujawar)
+B.Tech CSE, Pimpri Chinchwad College Of Engineering <br>
+GitHub: [@AyanMujawar](https://github.com/AyanMujawar)
+
+> ⭐️ If you found this useful, please star the repo and share your feedback!
+
+For questions or suggestions, open an [issue](https://github.com/AyanMujawar/Online-Course-Management-System/issues) or contact me via GitHub.
 
