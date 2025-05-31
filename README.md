@@ -92,9 +92,6 @@ Clean and modular code practices
 Contributions are welcome!
 Feel free to open issues or submit pull requests for improvements, enhancements, or bug fixes.
 
-## 📄 License
-This project is open source.
-You can add an appropriate license file as per your preference (e.g., MIT, Apache 2.0).
 
 ## 👨‍💻 Author
 Ayan Mujawar
