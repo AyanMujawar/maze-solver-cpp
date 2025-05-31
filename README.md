@@ -66,9 +66,9 @@ Goal reached using BFS at: 2, 2
 
 ## 📁 File Structure
 
-maze-solver-cpp/
-├── main.cpp       # Main source code with MazeSolver class
-├── README.md      # Project documentation
+maze-solver-cpp/<br>
+├── main.cpp       # Main source code with MazeSolver class<br>
+├── README.md      # Project documentation<br>
 └── .gitignore     # Ignored files (optional)
 
 
