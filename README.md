@@ -69,7 +69,7 @@ Goal reached using BFS at: 2, 2
 maze-solver-cpp/<br>
 ├── main.cpp       # Main source code with MazeSolver class<br>
 ├── README.md      # Project documentation<br>
-└── .gitignore     # Ignored files (optional)
+└── .gitignore     # Ignored files 
 
 
 ## 📚 Algorithms Used
