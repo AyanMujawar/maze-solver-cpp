@@ -1,0 +1,53 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Static & Dynamic Libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# CMake build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Code::Blocks
+*.depend
+*.layout
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+
+# VS Code settings
+.vscode/
+
+# CLion project files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.tmp
